@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yukiito0914.github.io/al-folio/sitemap.xml
+Sitemap: https://yukito0914.github.io/sitemap.xml
